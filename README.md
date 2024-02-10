@@ -1,0 +1,2 @@
+# DEGJO
+DEGJO algorithm
